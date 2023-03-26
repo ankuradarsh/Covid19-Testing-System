@@ -59,7 +59,7 @@ echo '<script>alert("Record deleted")</script>';
 
                 <!-- Topbar -->
 <?php include_once('includes/topbar.php');?>
-                <!-- End of Topbar -->
+                <!-- End Topbar -->
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
