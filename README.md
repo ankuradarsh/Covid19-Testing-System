@@ -33,8 +33,6 @@
 
 ## About The Project
 
-(https://github.com/ankuradarsh/Covid19-Testing-System/blob/master/covid19-website.png?raw=true)
-
 Developed a dedicated website aimed at providing comprehensive support to individuals affected by Covid-19, incorporating state-of-the-art Automatic Speech Recognition (ASR) technology. This innovative platform prioritizes accessibility by integrating voice-activated features, enabling patients to navigate and interact seamlessly.
 
 The user-friendly design of the website ensures a smooth experience, offering valuable assistance across various aspects of the healthcare journey for those impacted by Covid-19. Leveraging HTML, CSS, and Bootstrap, the frontend is meticulously crafted to be visually appealing and responsive, enhancing the overall user experience.
