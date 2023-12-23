@@ -10,7 +10,7 @@
     Efficient COVID-19 testing management for streamlined and organized processes.
     <br/>
     <br/>
-    <a href="https://github.com/ankuradarsh/Covid19-Testing-System">View Live</a>
+    <a href="https://ankuradarsh.000webhostapp.com/">View Live</a>
     .
     <a href="https://github.com/ankuradarsh/Covid19-Testing-System">Repository</a>
     .
